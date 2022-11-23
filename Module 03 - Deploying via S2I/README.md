@@ -8,7 +8,7 @@ So let's build a Node.js web app, using S2I.
 
 ### Steps (CLI)
 
-1. $ `oc new-app --name=dc-metro-map https://github.com/RedHatGov/openshift-workshops.git --context-dir=dc-metro-map --as-deployment-config=true`
+1. $ `oc new-app --name=dc-metro-map https://github.com/masharif46/s2i.git --context-dir=dc-metro-map --as-deployment-config=true`
 1. $ `oc expose service dc-metro-map`
 1. $ `oc get builds`
 1. $ `oc logs builds/dc-metro-map-1`
