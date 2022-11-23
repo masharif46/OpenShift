@@ -21,7 +21,7 @@ In this lab, we will deploy an app using an existing container image. OpenShift 
 1. $ `oc describe pods`
 1. $ `oc get pods -o wide`
 1. $ `oc explain pods`
-1. BROWSE: http://nexus-demo-31.apps-crc.testing/nexus/
+1. $ `BROWSE As per Your URL : http://nexus-demo-31.apps-crc.testing/nexus/
 1. $ `oc delete all --selector app=nexus`
 1. $ `oc help`
 1. $ `oc create --help` 
