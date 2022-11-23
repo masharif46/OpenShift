@@ -20,13 +20,16 @@ The OpenShift 101 workshop uses [CodeReady Containers (CRC)](https://developers.
 
 Here's a recent video walkthrough of CRC install on macOS: https://www.youtube.com/watch?v=72Bfw1WxojQ
 
-## To Start This Workshop From Your Laptop (Linux/macOS):
+## To Start This Workshop From Your Laptop (Windows):
 
-1. Download CodeReady Containers either by clicking the Download button; or: $ `wget https://mirror.openshift.com/pub/openshift-v4/clients/crc/latest/crc-macos-amd64.pkg --user=<YOUR_RH_USERNAME> --ask-pass`
-2. Download the Pull Secret (you will be asked to paste this the first time you run crc start).
-3. Double-click `crc-macos-amd64.pkg` to launch the the install wizard.
-4. Open your Terminal
-5. $ `crc setup`
-6. $ `crc start`
+1. CodeReady Containers Download Page https://console.redhat.com/openshift/create/local
+2. Download CodeReady Containers either by clicking the Download button; or: $ `https://developers.redhat.com/content-gateway/rest/mirror/pub/openshift-v4/clients/crc/latest/crc-windows-installer.zip`
+3. Download the Pull Secret (you will be asked to paste this the first time you run crc start).
+4. unzip crc-windows-installer.zip
+5. How to enable Hyper -V on Windows 11 :  https://www.youtube.com/watch?v=gmN6B_H9xj4
+6. Double-click `crc-windows-amd64.msi` to launch the the install wizard.
+7. Open your Terminal
+8. $ `crc setup`
+9. $ `crc start`
 
 # [>> NEXT: Module 01 - Module 01 - Overview](Module%2001%20-%20Overview)
