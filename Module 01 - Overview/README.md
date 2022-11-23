@@ -37,4 +37,4 @@ Kubernetes glossary:
 https://kubernetes.io/docs/reference/glossary
 
 
-# [Intro <<](https://github.com/1eve1Up/openshift-workshops/tree/main/101) | [>> NEXT: Module 02 - Your First Pod](../Module%2002%20-%20Your%20First%20Pod)
+# [Intro <<](https://github.com/masharif46/OpenShift) | [>> NEXT: Module 02 - Your First Pod](../Module%2002%20-%20Your%20First%20Pod)
